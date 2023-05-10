@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "name": "Stacey Runolfsson",
+      "email": "america@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Cindy Hoppe",
+      "email": "laney@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Hannah Hayes",
+      "email": "brennan@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Luis Lockman",
+      "email": "roscoe@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Katie Franecki",
+      "email": "clare@gmail.com",
+      "id": 8
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 3
+    },
+    {
+      "userId": 3,
+      "title": "Ergonomic Soft Pants",
+      "id": 12
+    },
+    {
+      "userId": 6,
+      "title": "Refined Cotton Sausages",
+      "id": 14
+    },
+    {
+      "userId": 7,
+      "title": "Incredible Steel Pants",
+      "id": 15
+    },
+    {
+      "userId": 6,
+      "title": "Handmade Steel Soap",
+      "id": 16
+    },
+    {
+      "userId": 5,
+      "title": "Sleek Concrete Bacon",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=65275",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=85808",
+      "id": 2
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=65590",
+      "id": 3
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=91494",
+      "id": 4
+    }
+  ]
+}

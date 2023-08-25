@@ -24,6 +24,11 @@
       "name": "Katie Franecki",
       "email": "clare@gmail.com",
       "id": 8
+    },
+    {
+      "name": "Mr. Ronnie Crist",
+      "email": "kody@gmail.com",
+      "id": 9
     }
   ],
   "albums": [
@@ -56,6 +61,11 @@
       "userId": 5,
       "title": "Sleek Concrete Bacon",
       "id": 17
+    },
+    {
+      "userId": 8,
+      "title": "Rustic Bronze Pants",
+      "id": 18
     }
   ],
   "photos": [
@@ -78,6 +88,21 @@
       "albumId": 17,
       "url": "https://loremflickr.com/150/150/abstract?lock=91494",
       "id": 4
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=9491",
+      "id": 5
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=71054",
+      "id": 6
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=25366",
+      "id": 7
     }
   ]
 }

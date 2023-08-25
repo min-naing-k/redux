@@ -14,6 +14,7 @@ const albumsApi = createApi({
       return fetch(...args);
     }
   }),
+  tagTypes: [ 'Albums', 'UserAlbums' ],
   endpoints(builder) {
     return {
       fetchAlbums: builder.query<AlbumInterface[], UserInterface>({
